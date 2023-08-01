@@ -25,6 +25,8 @@ dependencies {
     implementation(project(":spring-repository-extension"))
     implementation(project(":spring-protocol-extension"))
 
+    implementation("org.jetbrains.kotlinx:kotlinx-datetime-jvm:0.4.0")
+
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
     implementation("org.springframework.boot:spring-boot-starter-web")
 }

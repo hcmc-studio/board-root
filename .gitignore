@@ -52,6 +52,7 @@ jpa-converter-extension/
 kotlin-crypto-extension/
 kotlin-format-extension/
 kotlin-protocol-extension/
+ktor-client/
 ktor-launcher/
 ktor-plugin-extension/
 ktor-routing/

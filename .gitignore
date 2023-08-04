@@ -49,6 +49,7 @@ exposed-table/
 exposed-table-extension/
 exposed-transaction-extension/
 jpa-converter-extension/
+kotlin-coroutines-extension/
 kotlin-crypto-extension/
 kotlin-format-extension/
 kotlin-protocol-extension/
